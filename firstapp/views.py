@@ -14,4 +14,5 @@ def second(request):
 
 def third(request):
     print('33333')
+    print(1111)
     return HttpResponse(1)
