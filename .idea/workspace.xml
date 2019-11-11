@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1498d7ae-77fb-476a-8b78-ef7eaae7cff9" name="Default Changelist" comment="" />
+    <list default="true" id="1498d7ae-77fb-476a-8b78-ef7eaae7cff9" name="Default Changelist" comment="在第三个视图函数添加了print1111语句">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +27,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/firstapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
+            <state relative-caret-position="102">
               <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
@@ -48,11 +50,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="798" />
-    <option name="y" value="27" />
-    <option name="width" value="1098" />
-    <option name="height" value="848" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="412" />
+    <option name="y" value="67" />
+    <option name="width" value="1328" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,6 +74,12 @@
               <item name="first_practice-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="first_practice-master" type="462c0819:PsiDirectoryNode" />
               <item name="firstapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_practice-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_practice-master" type="462c0819:PsiDirectoryNode" />
+              <item name="firstapp" type="462c0819:PsiDirectoryNode" />
+              <item name="views.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
@@ -136,7 +144,7 @@
       <updated>1573471249161</updated>
       <workItem from="1573471255358" duration="919000" />
       <workItem from="1573472205203" duration="5701000" />
-      <workItem from="1573484216998" duration="4971000" />
+      <workItem from="1573484216998" duration="5258000" />
     </task>
     <task id="LOCAL-00001" summary="添加了第三个视图函数">
       <created>1573485860170</created>
@@ -163,12 +171,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11591000" />
+    <option name="totallyTimeSpent" value="11878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="639" y="22" width="878" height="678" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2597561" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1427614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -182,7 +190,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32950193" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5555556" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.42521995" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -227,7 +235,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/firstapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
+        <state relative-caret-position="102">
           <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
