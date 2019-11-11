@@ -10,3 +10,8 @@ def first(request):
 def second(request):
 
     return  HttpResponse()
+
+
+def third(request):
+
+    return HttpResponse(1)
