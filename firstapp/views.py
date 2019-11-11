@@ -9,9 +9,9 @@ def first(request):
 
 def second(request):
 
-    return  HttpResponse()
+    return HttpResponse()
 
 
 def third(request):
-
+    print('33333')
     return HttpResponse(1)
