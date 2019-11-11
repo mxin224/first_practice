@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="412" />
     <option name="y" value="67" />
     <option name="width" value="1328" />
@@ -144,7 +144,7 @@
       <updated>1573471249161</updated>
       <workItem from="1573471255358" duration="919000" />
       <workItem from="1573472205203" duration="5701000" />
-      <workItem from="1573484216998" duration="5258000" />
+      <workItem from="1573484216998" duration="5915000" />
     </task>
     <task id="LOCAL-00001" summary="添加了第三个视图函数">
       <created>1573485860170</created>
@@ -171,7 +171,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11878000" />
+    <option name="totallyTimeSpent" value="12535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
